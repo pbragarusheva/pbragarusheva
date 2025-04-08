@@ -14,8 +14,6 @@ I'm a student at Technical University of Sofia, currently studying Computer and 
 -> Microsoft SQL Server
 
 
--> PostgreSQL
-
 I enjoy exploring different approaches to data modeling and solving real-world problems related to efficient data storage and access.
 
 📫 Get in touch
